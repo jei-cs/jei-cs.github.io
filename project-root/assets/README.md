@@ -1,4 +1,4 @@
-# ======= GenAI FAQs & Ethical Considerations on it's Usage =======
+# ==== GenAI FAQs & Ethical Considerations on it's Usage ====
 
 ## Overview
 Hello and welcome to my website about Generative AI. It covers common questions about GenAI and discusses it's ethical risks and proper usage. I hope this website help make you understand GenAI better surrounding it's use.
@@ -12,5 +12,6 @@ Hello and welcome to my website about Generative AI. It covers common questions 
 VS Code - https://code.visualstudio.com
 BootStrap - https://getbootstrap.com
 GitHub (obviously) - https://github.com
+
 
 
