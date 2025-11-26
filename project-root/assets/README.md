@@ -13,7 +13,14 @@ VS Code - https://code.visualstudio.com
 BootStrap - https://getbootstrap.com
 GitHub (obviously) - https://github.com
 
-![Homepage Screenshot](screenshots/home.png)
+## Screenshots of the website
+
+![Homepage](screenshots/home.png)
+![FAQs](screenshots/faqs.png)
+![Ethics](screenshots/ethics.png)
+![Analogy](screenshots/analogy.png)
+![Navigation](screenshots/navigation.png)
+
 
 
 
